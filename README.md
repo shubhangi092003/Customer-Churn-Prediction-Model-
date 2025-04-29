@@ -1,1 +1,1 @@
-# Customer-Churn-Prediction-Model-
+# Machine Learning Models(Prediction and Detection Models)-
